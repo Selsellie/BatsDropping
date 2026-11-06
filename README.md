@@ -1,4 +1,5 @@
-# 🦇 BatsDropping
+<img width="373" height="74" alt="image" src="https://github.com/user-attachments/assets/3a350c67-b19c-463f-9432-717216c29750" />
+
 
 **A little eavesdropping on the night shift.**
 
